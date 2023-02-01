@@ -1,2 +1,0 @@
-# SourceControlValidation
-SourceControlValidation for AA
